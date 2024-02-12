@@ -8,7 +8,7 @@ Previous versions and competition on:
 Post deadline efforts to improve the competition score by augmenting the dataset have been made, but so far unsuccesfull. 
 
 ## Roadmap
-cmaking the data augmentation work
+making the data augmentation work
 
 ## Project status
 
